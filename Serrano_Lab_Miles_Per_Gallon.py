@@ -1,4 +1,5 @@
 # Calculate your miles per gallon!
+
 def calculate_mpg():    # Function to calculate miles per gallon
     # Originally had parameters for total_miles and total_gallons, but
     # they are not needed as they are initialized within the function.
@@ -18,6 +19,7 @@ def calculate_mpg():    # Function to calculate miles per gallon
             if gallons_filled <= 0:
                 print("Gallons must be greater than 0.")
                 continue
+            
 # Spaces for readability.
             miles_driven = float(input("Enter the miles driven on current tank: "))
             print("------------")   # Added these lines for readability of output.
