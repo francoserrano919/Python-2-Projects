@@ -1,0 +1,11 @@
+Lastname	Firstname	ID	Email				Phone
+Washington	George		1234	George.Washington@email.edu	520-555-1001
+Adams		John		5678	John.Adams@email.edu		520-555-1002
+Jefferson	Thomas		9123	Thomas.Jefferson@email.edu	520-555-1003
+Madison		James		4567	James.Madison@email.edu		520-555-1004
+Monroe		James		8910	James.Monroe@email.edu		520-555-1005
+Adams		John		1112	John.Adams@email.edu		520-555-1006
+Jackson		Andrew		1345	Andrew.Jackson@email.edu	520-555-1007
+VanBuren	Martin		6178	Martin.VanBuren@email.edu	520-555-1008
+Harrison	William		9201	William.Harrison@email.edu	520-555-1009
+Tyler		John		3219	John.Tyler@email.edu		520-555-1010
